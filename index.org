@@ -4,6 +4,6 @@
 
 | Repository                                  | Website                        | Contact |
 |---------------------------------------------+--------------------------------+---------|
-| https://github.com/opencovid19-fr/dashboard | https://veille-coronavirus.fr/ |         |
-| https://github.com/co-demos/covid-viz       |                                |         |
+| [[https://github.com/opencovid19-fr/dashboard]] | [[https://veille-coronavirus.fr/]] |         |
+| [[https://github.com/co-demos/covid-viz]]       |                                |         |
 
