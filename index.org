@@ -5,8 +5,8 @@ directly [[https://github.com/bzg/covid19-floss-initatives/issues/new][create an
 
 * List of initiatives/repositories
 
-| Repository                                  | Website                        | Contact |
-|---------------------------------------------+--------------------------------+---------|
-| [[https://github.com/opencovid19-fr/dashboard]] | [[https://veille-coronavirus.fr/]] |         |
-| [[https://github.com/co-demos/covid-viz]]       |                                |         |
+| Repository                                  | Website                               | Contact |
+|---------------------------------------------+---------------------------------------+---------|
+| [[https://github.com/opencovid19-fr/dashboard]] | [[https://veille-coronavirus.fr/]]        |         |
+| [[https://github.com/co-demos/covid-viz]]       | [[https://covid-initiatives.netlify.com]] |         |
 

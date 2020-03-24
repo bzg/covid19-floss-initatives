@@ -32,7 +32,7 @@ directly [create an issue](https://github.com/bzg/covid19-floss-initatives/issue
 
 <tr>
 <td class="org-left"><https://github.com/co-demos/covid-viz></td>
-<td class="org-left">&#xa0;</td>
+<td class="org-left"><https://covid-initiatives.netlify.com></td>
 <td class="org-left">&#xa0;</td>
 </tr>
 </tbody>
