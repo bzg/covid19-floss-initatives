@@ -1,5 +1,8 @@
 #+title: A curated list of free/open source repositories to help with COVID19
 
+Contributions are welcome!  See the [[https://github.com/bzg/covid19-floss-initatives][README]] on how to contribute or
+directly [[https://github.com/bzg/covid19-floss-initatives/issues/new][create an issue]] to submit a new repository.
+
 * List of initiatives/repositories
 
 | Repository                                  | Website                        | Contact |
