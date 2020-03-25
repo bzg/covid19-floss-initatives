@@ -11,4 +11,5 @@ directly [[https://github.com/bzg/covid19-floss-initatives/issues/new][create an
 | [[https://github.com/co-demos/covid-viz]]           | [[https://covid-initiatives.netlify.com]] | [2020-03-24 mar.] |
 | [[https://gitlab.com/fevermap/fevermap/]]           | [[https://fevermap.net]]                  | [2020-03-24 mar.] |
 | [[https://github.com/alexisthual/symptoms-tracker]] | [[https://symptoms-tracker.now.sh]]       | [2020-03-25 mer.] |
+| [[https://github.com/bstarynk/helpcovid]]           |                                       | [2020-03-25 mer.] |
 
