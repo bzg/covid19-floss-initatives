@@ -24,43 +24,43 @@ directly [create an issue](https://github.com/bzg/covid19-floss-initatives/issue
 
 <tbody>
 <tr>
-<td class="org-left">https://github.com/opencovid19-fr/dashboard>/td>
-<td class="org-left">https://veille-coronavirus.fr>/td>
+<td class="org-left"><https://github.com/opencovid19-fr/dashboard></td>
+<td class="org-left"><https://veille-coronavirus.fr></td>
 <td class="org-left"><span class="timestamp-wrapper"><span class="timestamp">[2020-03-24 mar.]</span></span></td>
 </tr>
 
 
 <tr>
-<td class="org-left">https://github.com/co-demos/covid-viz</td>
-<td class="org-left">https://covid-initiatives.netlify.com</td>
+<td class="org-left"><https://github.com/co-demos/covid-viz></td>
+<td class="org-left"><https://covid-initiatives.org></td>
 <td class="org-left"><span class="timestamp-wrapper"><span class="timestamp">[2020-03-24 mar.]</span></span></td>
 </tr>
 
 
 <tr>
-<td class="org-left">https://gitlab.com/fevermap/fevermap/</td>
-<td class="org-left">https://fevermap.net</td>
+<td class="org-left"><https://gitlab.com/fevermap/fevermap/></td>
+<td class="org-left"><https://fevermap.net></td>
 <td class="org-left"><span class="timestamp-wrapper"><span class="timestamp">[2020-03-24 mar.]</span></span></td>
 </tr>
 
 
 <tr>
-<td class="org-left">https://github.com/alexisthual/symptoms-tracker</td>
-<td class="org-left">https://symptoms-tracker.now.sh</td>
+<td class="org-left"><https://github.com/alexisthual/symptoms-tracker></td>
+<td class="org-left"><https://symptoms-tracker.now.sh></td>
 <td class="org-left"><span class="timestamp-wrapper"><span class="timestamp">[2020-03-25 mer.]</span></span></td>
 </tr>
 
 
 <tr>
-<td class="org-left">https://github.com/bstarynk/helpcovid</td>
+<td class="org-left"><https://github.com/bstarynk/helpcovid></td>
 <td class="org-left">&#xa0;</td>
 <td class="org-left"><span class="timestamp-wrapper"><span class="timestamp">[2020-03-25 mer.]</span></span></td>
 </tr>
 
 
 <tr>
-<td class="org-left">https://github.com/tgalopin/enpremiereligne.fr</td>
-<td class="org-left">https://enpremiereligne.fr</td>
+<td class="org-left"><https://github.com/tgalopin/enpremiereligne.fr></td>
+<td class="org-left"><https://enpremiereligne.fr></td>
 <td class="org-left"><span class="timestamp-wrapper"><span class="timestamp">[2020-03-27 ven.]</span></span></td>
 </tr>
 </tbody>
