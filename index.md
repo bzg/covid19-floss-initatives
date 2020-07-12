@@ -1,6 +1,8 @@
 Contributions are welcome!  See the [README](https://github.com/bzg/covid19-floss-initatives) on how to contribute or
 directly [create an issue](https://github.com/bzg/covid19-floss-initatives/issues/new) to submit a new repository.
 
+As a first contribution, you can add a **description** for each initiative.
+
 # List of initiatives
 
 - <https://github.com/opencovid19-fr/dashboard>
