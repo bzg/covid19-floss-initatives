@@ -1,14 +1,16 @@
 # List of initiatives/repositories
 
-This repository aggregates Free/Libre Open Source initiatives.
+This repository aggregates Free/Libre Open Source initiatives about Covid19.
 
-We collect only **initiatives with source code**, not with data.
+We collect only **initiatives with source code**, not just with data.
 
 # What you can do
 
-- Enhance the descriptions of each initiative.
+- Add an english description Enhance for each initiative.
 
-- Explore these resources for more links:
+- Add other relevant information (like related website).
+
+- Explore other similar resources to add more links:
 	- <https://fs0c131y.com/covid19-tracker-apps/>
 
 # How to contriute
@@ -20,5 +22,4 @@ If you don't use GitHub, you also send me [an email](mailto:bzg@bzg.fr).
 # License
 
 This repository is published under the Unlicense license.
-
 
