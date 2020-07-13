@@ -4,6 +4,8 @@ This repository aggregates Free/Libre Open Source initiatives about Covid19.
 
 We collect only **initiatives with source code**, not just with data.
 
+You can [browse the list here](https://bzg.github.io/covid19-floss-initatives/).
+
 # What you can do
 
 - Add an english description Enhance for each initiative.
